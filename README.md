@@ -22,7 +22,7 @@ This is a simple application for managing student records built with Spring Boot
 
 
 ## Features
-- Add new students with details like name, age, and grade.
+- Add new students with details like name, email, adresse...
 - View a list of all students.
 - Update student information.
 - Delete student records.
